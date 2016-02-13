@@ -1,0 +1,5 @@
+Peeps.insert({
+  Name: "Sophy",
+  Gender: "Female",
+  Numbers: [10,20,30,40,50]
+});
