@@ -8,7 +8,7 @@ PeepInfo = React.createClass({
     };
   },
   render() {
-    return <span>Hello, {this.data.peeps[0].Numbers[3]}</span>
+    return <PeepProp />
   }
 });
 
